@@ -35,3 +35,5 @@
 *.bin
 *.cph
 *.DS_Store
+
+*.json
