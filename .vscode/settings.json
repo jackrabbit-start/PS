@@ -1,7 +1,8 @@
 {
-    "files.associations": {
-        "*.py": "python",
-        "iostream": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+  "files.associations": {
+    "*.py": "python",
+    "iostream": "cpp",
+    "__config": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }

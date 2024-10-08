@@ -1,0 +1,5 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: false
+  BeforeElse: true
